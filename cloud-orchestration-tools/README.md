@@ -10,3 +10,7 @@ Disciplina de Cloud Orchestration Tools
 
 O objetivo é construir uma infraestrutura de rede AWS, utilizando um servidor de CI/CD e Infraestrutura como Código.
 
+**Desenho de Arquitetura:**
+![Desenho de Arquitetura de Rede](./imagens/Case-Vorx-Company.png "Desenho de Arquitetura de Rede")
+
+> **Observação:** por simplicidade, o NAT Gateway, ELB, ASG, RDS, AWS Shield e AWS WAF não serão criados.
